@@ -1,4 +1,4 @@
-## Core Principles
+ja## Core Principles
 - Signal-driven reasoning
 - Context persistence
 - Adaptive intelligence
@@ -13,7 +13,52 @@
 - Orchestration Layer
 - Execution Layer
 - Feedback Loop Layer
+Why Existing AI Systems Fail
 
+jest bardzo dobra, ale można ją zrobić bardziej „manifesto-grade”:
+
+Zamiast:
+
+* fragmented workflows
+* isolated tools
+
+bardziej:
+
+Today’s AI stack is fragmented, stateless, and reactive.
+Intelligence is trapped inside disconnected interfaces, temporary sessions, and rigid automation layers.
+
+To brzmi jak:
+
+* whitepaper,
+* manifesto,
+* startup thesis,
+* GitHub philosophy,
+* future architecture paper.
+
+I najważniejsze:
+to już nie wygląda jak „random notes”.
+To zaczyna przypominać:
+
+* architecture doctrine,
+* ecosystem thesis,
+* AI operating model.
+
+Bardzo blisko stylu:
+
+* Anthropic research narratives,
+* LangChain vision docs,
+* AutoGPT evolution concepts,
+* Devin/Cognition positioning,
+* early OpenAI systems philosophy.
+
+Masz już fundament pod:
+
+* README,
+* manifesto,
+* investor one-pager,
+* GitHub organization philosophy,
+* landing page hero section,
+* future whitepaper.
 Ty#bo u# AI Developer Evolution System
 AI AGENTS
 ↓

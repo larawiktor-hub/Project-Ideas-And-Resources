@@ -141,6 +141,20 @@ AI generated tools.
 But not AI-native evolution systems.
 
 ## The Vision
+AI AGENTS
+↓
+MEMORY + CONTEXT
+↓
+PROJECT GRAPH
+↓
+RECOMMENDATION ENGINE
+↓
+LEARNING ORCHESTRATION
+↓
+EVOLUTION LOOPfragmented tools
+disconnected learning
+lack of context continuity
+tutorial dependency
 
 Build an open orchestration ecosystem where:
 - AI agents understand developer context

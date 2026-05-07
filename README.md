@@ -28,7 +28,47 @@ Why Existing AI Systems Fail
 - Orchestration Layer
 - Evolution Layer
 ## Why Now
+## Why ASIM Exists
 
+Current AI systems are fragmented.
+
+Models can generate outputs,
+but they cannot coordinate persistent cognition across tools,
+memory, environments and autonomous agents.
+
+Most AI products are isolated interfaces built around single interactions.
+
+They lack:
+
+- persistent adaptive memory
+- orchestration between agents
+- contextual continuity
+- real-time tool coordination
+- autonomous execution layers
+- system-scale cognition
+
+ASIM exists to solve this problem.
+
+It is not another model.
+
+It is the orchestration infrastructure layer
+for adaptive AI-native systems.
+## Core Principles
+
+### 1. Intelligence must be orchestrated
+Raw model capability without coordination creates fragmentation.
+
+### 2. Memory is infrastructure
+Persistent context is a foundational system layer.
+
+### 3. Agents are execution units
+Agents should operate as coordinated cognitive nodes.
+
+### 4. Adaptation is continuous
+Systems must evolve dynamically from interaction and feedback.
+
+### 5. AI-native systems require runtime cognition
+Static workflows cannot scale autonomous intelligence.
 LLMs solved language generation.
 
 The next challenge is persistent cognition,
@@ -57,7 +97,15 @@ To brzmi jak:
 * startup thesis,
 * GitHub philosophy,
 * future architecture paper.
+## ASIM Architecture
 
+- Cognitive Orchestration Layer
+- Adaptive Memory Layer
+- Agent Runtime System
+- Tool Execution Engine
+- Context Persistence Framework
+- Signal & Feedback Coordination
+- Autonomous Decision Routing
 I najważniejsze:
 to już nie wygląda jak „random notes”.
 To zaczyna przypominać:

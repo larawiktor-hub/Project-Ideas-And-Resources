@@ -706,6 +706,24 @@ for AI-native orchestration.
 
 Not another model.
 An operating system for orchestrated intelligence.
+Not another model.
+
+An operating system for orchestrated intelligence.
+
+Foundation models created intelligence abundance.
+What is missing is orchestration.
+
+ASIM is a cognitive orchestration architecture
+for the AI-native era.
+
+The future will not be built by isolated models,
+but by systems capable of coordinating reasoning,
+memory, tools, agents and adaptation in real time.
+
+ASIM is the infrastructure layer for orchestrated cognition.
+AI = model
+AI = orchestration system
+A foundation for adaptive autonomous intelligence.
 
 ASIM is the orchestration layer between them.
 It is a cognitive orchestration architecture

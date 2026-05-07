@@ -1,6 +1,28 @@
 # AI Developer Evolution System
+AI AGENTS
+↓
+MEMORY + CONTEXT
+↓
+PROJECT GRAPH
+↓
+RECOMMENDATION ENGINE
+↓
+LEARNING ORCHESTRATION
+↓
+EVOLUTION LOOP
+Developer State
+Intent
+Energy
+Skill Vector
+Focus Context
+Knowledge Resonance
+signal confidence
+execution velocity
+context retention
+pattern recognition growth
+system thinking index
 
-An adaptive AI-native ecosystem that transforms developers from learners into orchestrators.
+An adaptuje AI-native ecosystem that transforms developers from learners into orchestrators.
 
 ## Core Layers
 

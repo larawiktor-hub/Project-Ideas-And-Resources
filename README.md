@@ -389,6 +389,30 @@ and evolving human intent.
 - Open modular architecture
 * adaptator
 * orchestration
+## Architecture DNA
+
+- AI-native by design
+- Human + agent collaboration
+- Persistent contextual memory
+- Adaptive orchestration
+- Continuous evolution
+- Open modular architecture
+
+## System Capabilities
+
+- Autonomous execution
+- Multi-agent coordination
+- Dynamic adaptation
+- Context-aware reasoning
+- Modular extensibility
+- Continuous learning loops
+
+## Vision
+
+An open-source ecosystem designed to help developers
+build adaptive AI-native systems capable of orchestration,
+memory persistence, autonomous execution,
+and continuous evolution.
 * autonomous execution
 * continuous evolution
 but from adaptive orchestration systems.

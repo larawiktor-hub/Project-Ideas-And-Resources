@@ -1,4 +1,4 @@
-#bo u# AI Developer Evolution System
+Ty#bo u# AI Developer Evolution System
 AI AGENTS
 ↓
 MEMORY + CONTEXT
@@ -32,7 +32,36 @@ An adaptuje AI-native ecosystem that transforms developers from learners into or
 - Skill Resonance Engine
 - Project Graph Intelligence
 - Adaptive Recommendation Engine
+## Core Principles
 
+- AI-native by design
+- Human + agent collaboration
+- Persistent contextual memory
+- Adaptive orchestration
+- Continuous evolution
+- Open modular architecture
+
+## Runtime Capabilities
+
+- Autonomous execution
+- Context-aware adaptation
+- Multi-agent coordination
+- Dynamic orchestration
+- Self-improving workflows
+
+## System Philosophy
+
+- Systems over tools
+- Context over prompts
+- Evolution over static automation
+- Intelligence as orchestration
+## Vision
+
+An AI-native orchestration ecosystem where humans and intelligent agents
+co-evolve through adaptive memory, modular execution, and contextual intelligence.
+
+Not a single tool.
+A continuously evolving cognitive infrastructure.
 ## Evolution Path
 
 Beginner → Builder → Architect → Orchestrator

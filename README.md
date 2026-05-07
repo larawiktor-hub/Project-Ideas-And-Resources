@@ -20,7 +20,24 @@ ROADMAP.md
 - Execution Layer
 - Feedback Loop Layer
 Why Existing AI Systems Fail
+## System Layers
 
+- Perception Layer
+- Memory Layer
+- Reasoning Layer
+- Orchestration Layer
+- Evolution Layer
+## Why Now
+
+LLMs solved language generation.
+
+The next challenge is persistent cognition,
+adaptive memory,
+and orchestration across tools, agents, and environments.
+ASIM is not designed as a chatbot.
+
+It is designed as an evolving cognitive infrastructure
+for AI-native systems.
 jest bardzo dobra, ale można ją zrobić bardziej „manifesto-grade”:
 
 Zamiast:

@@ -929,6 +929,14 @@ Not an application.
 Not an assistant.
 
 An intelligence substrate.
+From tools
+to intelligence systems.
+
+From isolated models
+to orchestrated cognition.
+
+From interaction
+to evolution.
 
 Built to orchestrate
 living intelligence.

@@ -1,3 +1,19 @@
+## Core Principles
+- Signal-driven reasoning
+- Context persistence
+- Adaptive intelligence
+- Human-in-the-loop evolution
+- Modular cognition
+- Distributed orchestration
+## Architecture
+
+- Interface Layer
+- Memory Layer
+- Agent Layer
+- Orchestration Layer
+- Execution Layer
+- Feedback Loop Layer
+
 Ty#bo u# AI Developer Evolution System
 AI AGENTS
 ↓

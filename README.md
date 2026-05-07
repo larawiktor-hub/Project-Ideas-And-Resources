@@ -6,6 +6,12 @@ ja## Core Principles
 - Modular cognition
 - Distributed orchestration
 ## Architecture
+README.md
+MANIFESTO.md
+VISION.md
+ARCHITECTURE.md
+AGENTS.md
+ROADMAP.md
 
 - Interface Layer
 - Memory Layer

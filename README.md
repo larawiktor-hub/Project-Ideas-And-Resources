@@ -254,7 +254,17 @@ ASIM enables:
 - evolving project intelligence
 - connected knowledge ecosystems
 - orchestrated human-AI collaboration
-
+Human Intent
+      ↓
+Context Layer
+      ↓
+Memory Layer
+      ↓
+Agent Orchestration
+      ↓
+Adaptive Execution
+      ↓
+Continuous Learning
 The future will not be built
 from isolated applications,
 but from adaptive orchestration systems.

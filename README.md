@@ -1,4 +1,4 @@
-ja## Core Principles
+ja##Core Principles
 - Signal-driven reasoning
 - Context persistence
 - Adaptive intelligence

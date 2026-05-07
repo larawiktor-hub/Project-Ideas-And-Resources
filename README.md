@@ -908,4 +908,12 @@ Not an application.
 Not an assistant.
 
 An intelligence substrate.
+Not an application.
+Not an assistant.
+
+An intelligence substrate.
+
+Built to orchestrate
+evolving intelligence.
+
 An open-source ecosystem designed to help developers evolve from beginners into advanced system builders through structured, portfolio-driven learning.

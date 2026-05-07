@@ -1,3 +1,26 @@
+# AI Developer Evolution System
+
+An adaptive AI-native ecosystem that transforms developers from learners into orchestrators.
+
+## Core Layers
+
+- AI Layer
+- Memory Layer
+- Context Orchestration
+- Skill Resonance Engine
+- Project Graph Intelligence
+- Adaptive Recommendation Engine
+
+## Evolution Path
+
+Beginner → Builder → Architect → Orchestrator
+
+## Vision
+
+One system.
+Not 50 disconnected tools.
+
+A continuously evolving developer intelligence ecosystem.
 i# Project Ideas & Resources
 # ASIM — AI Architecture & Orchestration Map
 
@@ -84,6 +107,21 @@ Nadaj temu:
 ⸻
 
 3. Wprowadź:
+USER
+ ↓
+INTERFACE LAYER
+ ↓
+AI AGENTS
+ ↓
+MEMORY + CONTEXT
+ ↓
+PROJECT GRAPH
+ ↓
+RECOMMENDATION ENGINE
+ ↓
+LEARNING ORCHESTRATION
+ ↓
+EVOLUTION LOOP
 
 * AI agents
 * memory

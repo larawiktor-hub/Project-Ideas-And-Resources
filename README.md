@@ -1012,3 +1012,24 @@ Built not to simulate intelligence —
 but to cultivate emergent cognition.
 ASIM
 An ecosystem for cultivated intelligence.
+ASIM CORE
+│
+├── Signal Layer
+├── Interpretation Layer
+├── Decision Layer
+├── Execution Layer
+│    ├── MCP Tools
+│    ├── open.video MCP
+│    ├── Browser MCP
+│    ├── Git MCP
+│    └── Cloudflare MCP
+│
+├── Memory Layer
+├── Context Engine
+└── Feedback/Adaptation Layer
+asim-core/
+ ├── mcp/
+ ├── agents/
+ ├── orchestration/
+ ├── memory/
+ └── signal-engine/

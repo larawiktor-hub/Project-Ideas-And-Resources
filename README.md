@@ -1181,3 +1181,9 @@ economic-layer/
  ├── tokenization/
  ├── marketplace/
  └── partner-routing/
+Define ASIM core intelligence architecture
+execution-layer/
+├── tasks/
+├── agents/
+├── workflows/
+└── feedback-loops/

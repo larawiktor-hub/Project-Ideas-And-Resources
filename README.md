@@ -1085,3 +1085,40 @@ world-model/
  ├── entities/
  ├── relations/
  └── dynamics/
+memory/
+├── episodic/
+├── semantic/
+├── procedural/
+└── vector/
+signal-layer/
+├── perception/
+├── resonance/
+├── attention/
+├── salience/
+└── synchronization/
+agency/
+├── planning/
+├── execution/
+├── feedback/
+├── optimization/
+└── adaptation/
+meta/
+├── self-analysis/
+├── architecture-evolution/
+├── self-rewrite/
+└── strategy/
+identity
++ memory
++ reasoning
++ world model
++ agency
++ adaptation
+world-model/
+core/
+├── identity/
+├── memory/
+├── reasoning/
+├── world-model/
+├── agency/
+├── signal-layer/
+└── meta/

@@ -1160,3 +1160,24 @@ core/
 ├── context-engine/
 ├── policy-engine/
 asim_manifesto.md
+identity-layer/
+ ├── profile/
+ ├── behavioral-patterns/
+ ├── trust-score/
+ └── adaptation/
+world-model/
+ ├── entities/
+ ├── relationships/
+ ├── dynamics/
+ └── simulations/
+reflection-engine/
+ ├── error-analysis/
+ ├── strategic-learning/
+ ├── abstraction/
+ └── meta-reasoning/
+economic-layer/
+ ├── usage/
+ ├── credits/
+ ├── tokenization/
+ ├── marketplace/
+ └── partner-routing/

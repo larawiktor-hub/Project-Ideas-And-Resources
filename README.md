@@ -1187,3 +1187,18 @@ execution-layer/
 ├── agents/
 ├── workflows/
 └── feedback-loops/
+git add .
+git commit -m "Initialize ASIM execution layer architecture"
+git push
+git commit -m "Add reflection engine cognitive structure"
+# ASIM Core
+
+Adaptive cognitive operating architecture designed for autonomous reasoning, execution, reflection and economic coordination between AI-native systems.
+## Layers
+
+- Cognitive Layer
+- Reflection Engine
+- Economic Layer
+- Execution Layer
+- Feedback Loops
+task → execution → result → reflection → optimization

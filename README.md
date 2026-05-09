@@ -1122,3 +1122,41 @@ core/
 ├── agency/
 ├── signal-layer/
 └── meta/
+identity
+mission:
+core_values:
+risk_profile:
+communication_style:
+long_term_objectives:
+memory/
+reasoning/
+reasoning/
+├── symbolic/
+├── probabilistic/
+├── strategic/
+├── recursive/
+├── adversarial/
+world-model/
+agency/
+agency/
+├── planning/
+├── execution/
+├── evaluation/
+├── correction/
+├── optimization/
+signal-layer/
+self-rewrite/
+module/
+├── README.md
+├── config.yaml
+├── interfaces/
+├── agents/
+├── tests/
+├── prompts/
+├── memory/
+core/
+├── orchestrator/
+├── routing/
+├── context-engine/
+├── policy-engine/
+asim_manifesto.md

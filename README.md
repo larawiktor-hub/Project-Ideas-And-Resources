@@ -1,4 +1,4 @@
-ja##Core Principles
+ ja##Core Principles
 - Signal-driven reasoning
 - Context persistence
 - Adaptive intelligence
@@ -1061,3 +1061,27 @@ asim-core/
 ├── api/
 └── telemetry/
 Adaptive Intelligence Infrastructure
+signal-engine/
+interpretation/
+decision/
+adaptation/
+identity/
+ ├── goals/
+ ├── values/
+ ├── constraints/
+ └── evolution/
+reasoning/
+ ├── symbolic/
+ ├── probabilistic/
+ ├── causal/
+ └── recursive/
+world-model/
+ ├── environment/
+ ├── entities/
+ ├── relations/
+ └── dynamics/
+world-model/
+ ├── environment/
+ ├── entities/
+ ├── relations/
+ └── dynamics/

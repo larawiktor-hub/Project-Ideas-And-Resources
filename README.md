@@ -1033,3 +1033,31 @@ asim-core/
  ├── orchestration/
  ├── memory/
  └── signal-engine/
+Signal → Interpretation → Decision → Execution
+MCP Tools
+├── Browser MCP
+├── Git MCP
+├── Cloudflare MCP
+persistent cognition
+asim-core/
+├── agents/
+├── orchestration/
+├── cognition/
+│   ├── signal-engine/
+│   ├── interpretation/
+│   ├── decision/
+│   └── adaptation/
+├── memory/
+│   ├── vector/
+│   ├── episodic/
+│   └── semantic/
+├── context/
+├── execution/
+│   ├── mcp/
+│   ├── browser/
+│   ├── git/
+│   └── cloudflare/
+├── interfaces/
+├── api/
+└── telemetry/
+Adaptive Intelligence Infrastructure
